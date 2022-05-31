@@ -53,13 +53,13 @@ plt.imshow(image1)
 
 ## Output:
 ### Display the input Image
-![output](?raw=true)
+![output](**https://github.com/RuchithaReddy28/Opening-and-Closing/blob/main/r1.png?raw=true)
 
 ### Display the result of Opening
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Opening-and-Closing/blob/main/r2.png?raw=true)
 
 ### Display the result of Closing
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Opening-and-Closing/blob/main/r3.png?raw=true)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
