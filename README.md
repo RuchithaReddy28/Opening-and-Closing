@@ -10,7 +10,7 @@ To implement Opening and Closing using Python and OpenCV.
 ## Step1:
 Import the necessary packages
 
-z## Step 2:
+## Step 2:
 Create the Text using cv2.putText
 
 ## Step 3:
